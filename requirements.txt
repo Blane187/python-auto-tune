@@ -4,3 +4,4 @@ matplotlib
 soundfile
 scipy
 psola
+SpeechRecognition
